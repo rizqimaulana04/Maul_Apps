@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Default -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Atur atribut lainnya sesuai kebutuhan -->
+    </style>
+
+    <!-- Tema Gelap -->
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <item name="android:windowBackground">@color/darkBackground</item>
+        <!-- Atur atribut lainnya sesuai kebutuhan -->
+    </style>
+
+    <!-- Tema Normal -->
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Atur atribut lainnya sesuai kebutuhan -->
+    </style>
+
+</resources>
